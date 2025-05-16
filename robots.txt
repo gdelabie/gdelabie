@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gdelabie.github.io/sitemap.xml
