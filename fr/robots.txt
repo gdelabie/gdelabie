@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gdelabie.github.io/sitemap.xml
+Sitemap: https://gdelabie.github.io/gdelabie/sitemap.xml
